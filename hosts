@@ -1,0 +1,13 @@
+#
+# /etc/hosts: static lookup table for host names
+#
+
+#<ip-address>	<hostname.domain.org>	<hostname>
+127.0.0.1	localhost.localdomain	localhost
+::1		localhost.localdomain	localhost
+
+#172.18.4.66	exam.chanjet.com
+#172.18.4.66	t01.exam.chanjet.com
+
+
+# End of file

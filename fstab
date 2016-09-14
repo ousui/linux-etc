@@ -1,0 +1,14 @@
+# /dev/mapper/ssd-root
+UUID=a0bc0b09-174c-46f1-bd59-53cc3d90c706	/         	ext4      	rw,relatime,data=ordered	0 1
+
+# /dev/mapper/ssd-home
+UUID=87c75088-dece-49ef-b75d-7e4d977289ba	/home     	ext4      	rw,relatime,data=ordered	0 2
+
+# /dev/mapper/ssd-boot
+UUID=be9cb704-020a-435b-8db3-992946f3919c	/boot     	ext4      	rw,relatime,data=ordered	0 2
+
+# /dev/sdb1
+UUID=6C7D-027F      	/boot/efi 	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro	0 2
+
+# swapfile
+/var/local/swap		swap		swap		defaults		0 0
